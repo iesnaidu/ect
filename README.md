@@ -1,0 +1,2 @@
+# ect
+about circuit theory
